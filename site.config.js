@@ -4,11 +4,11 @@ module.exports = {
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: "6c376e85-26f0-4147-a310-0844cfbf4875",
+  rootNotionSpaceId: null,
 
   // basic site info (required)
   name: 'lizhimiao的博客',
-  domain: 'lizhimiao.com',
+  domain: 'https://trusting-glitter-4f0.notion.site/e8cd456ce4fa4851a824fa60156b32d9',
   author: 'zhimiao li',
 
   // open graph metadata (optional)
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: '_lizhimiao',
-  github: 'zhimiaoli',
+  github: 'mysouly',
   linkedin: 'lizhimiao',
 
   // default notion icon and cover images for site-wide consistency (optional)
